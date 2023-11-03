@@ -1,5 +1,5 @@
 # EE243_Advanced_computer_vision
-Main Project and multiple mini-projects involved in the course
+Main Project and multiple mini-projects involved in the course Advanced Computer Vision
 
 My DeepLabv3 implementation and Experiments - 
 
